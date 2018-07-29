@@ -1,0 +1,15 @@
+{
+  "name": "pitrafficlights",
+  "version": "0.0.1",
+  "description": "Demo with Low Voltage Labs Traffic Lights",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Simon Prickett",
+  "license": "MIT",
+  "dependencies": {
+    "onoff": "^3.2.1"
+  }
+}
